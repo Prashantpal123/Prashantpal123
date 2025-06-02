@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | BCA Student | Passionate Tech Learner</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashantpal2026/" target="_blank">
+  <a href="www.linkedin.com/in/prashantpal01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:prashantpal2026@gmail.com">
@@ -68,7 +68,7 @@
 
 - 📧 Email: **prashantpal2026@gmail.com**  
 - 📞 Phone: **+91 93898 88747**  
-- 🔗 LinkedIn: [linkedin.com/in/prashantpal2026](https://www.linkedin.com/in/prashantpal2026/)
+- 🔗 LinkedIn: [linkedin.com/in/prashantpal01](www.linkedin.com/in/prashantpal01)
 
 
 <p align="center">
