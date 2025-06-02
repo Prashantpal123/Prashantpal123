@@ -19,8 +19,6 @@
 📚 Currently learning **TypeScript**, exploring **SQL**, and sharpening my **Data Structures & Algorithms**.  
 🎯 Actively looking for full-time roles in **Web Development**.
 
----
-
 ## 🛠 Tech Stack & Tools
 
 ### 💻 Frontend  
@@ -61,8 +59,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantpal123&show_icons=true&theme=tokyonight" width="48%" />
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantpal123&show_icons=true&theme=tokyonight" width="48%" /> 
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpal123&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
@@ -74,7 +73,6 @@
 - 📞 Phone: **+91 93898 88747**  
 - 🔗 LinkedIn: [linkedin.com/in/prashantpal2026](https://www.linkedin.com/in/prashantpal2026/)
 
----
 
 <p align="center">
   Thank you for visiting my profile! Let's connect and collaborate 🤝
