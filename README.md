@@ -77,5 +77,3 @@
 <p align="center">
   Thank you for visiting my profile! Let's connect and collaborate 🤝
 </p>
-
----
