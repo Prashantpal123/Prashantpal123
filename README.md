@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Prashant Pal 👋</h1>
 <h3 align="center">MERN Stack Developer | BCA Student | Passionate Tech Learner</h3>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prashantpal2026/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +17,7 @@
 🎓 I'm a BCA student at **IFTM University**, deeply passionate about full-stack development using the **MERN stack**.  
 🛠️ I build clean, responsive, and efficient web applications with focus on functionality and user experience.  
 📚 Currently learning **TypeScript**, exploring **SQL**, and sharpening my **Data Structures & Algorithms**.  
-🎯 Actively looking for internship or full-time roles in **Web Development**.
+🎯 Actively looking for full-time roles in **Web Development**.
 
 ---
 
@@ -64,8 +62,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantpal2026&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpal2026&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantpal123&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpal123&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
