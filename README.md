@@ -55,7 +55,6 @@
 
 > More exciting projects coming soon...
 
----
 
 ## 📊 GitHub Stats
 
@@ -64,8 +63,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpal123&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
----
 
 ## 📬 Contact Me
 
