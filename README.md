@@ -68,7 +68,7 @@
 
 - 📧 Email: **prashantpal2026@gmail.com**  
 - 📞 Phone: **+91 93898 88747**  
-- 🔗 LinkedIn: [linkedin.com/in/prashantpal01](www.linkedin.com/in/prashantpal01)
+- 🔗 LinkedIn: www.linkedin.com/in/prashantpal01
 
 
 <p align="center">
